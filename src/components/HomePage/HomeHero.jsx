@@ -44,7 +44,7 @@ export default function HomeHero() {
             transition={{ duration: 0.8, delay: 0.2 }}
             className="relative"
           >
-            <div className="bg-white bg-opacity-10 backdrop-blur-lg rounded-2xl p-8 border border-white border-opacity-20">
+            <div className="bg-white !text-black bg-opacity-10 backdrop-blur-lg rounded-2xl p-8 border border-white border-opacity-20">
               <h3 className="text-2xl font-bold mb-6">Why Choose San Innovation?</h3>
               <div className="space-y-4">
                 <div className="flex items-center space-x-3">
